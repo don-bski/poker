@@ -4,4 +4,4 @@
 cards. Only basic game play is implemented and win/lose checking is incomplete.<br/>
 **DrawPokerGUI.pl** - Improved version of five card draw poker using Perl-tk. Auto-selection of a fixed game 
 table size based on screen resolution. Requires the perl GD module for image sizing. Yeah, perl-tk. Some 
-challenges during developmnent but it works pretty good.<br/>
+challenges and limitations to overcome during developmnent. Works pretty good.<br/>
