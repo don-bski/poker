@@ -5,3 +5,6 @@ This repository contains two perl based poker programs. While not written to the
 **DrawPoker.pl** - Proof of concept perl based five card draw poker game. Linux only. CLI based and ANSI color/character cards. 
 Only basic game play is implemented and win/lose checking is incomplete.<br/>
 
+**DrawPokerGUI.pl** - Perl/Tk based five card draw poker with game selectable options. Use CLI option **-h** for usage details. Use `cpanm` to install 
+TK and GD perl modules. Some versions of TK don't include the `waitVariableX.pm` module. An old version is included in this archive. Copy it to your 
+`perl\site\lib\Tk` directory.<br/>
