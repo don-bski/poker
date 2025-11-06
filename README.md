@@ -9,5 +9,3 @@ Only basic game play is implemented and win/lose checking is incomplete.<br/>
 **DrawPokerGUI.pl** - Improved version of five card draw poker using Perl-tk. Auto-selection of a fixed game 
 table size based on screen resolution. Requires the perl GD module for image sizing. Yeah, perl-tk. Some 
 challenges and limitations to overcome during developmnent. Overall, it works pretty good.
-
-**DrawPokerGUI.zip** - DrawPokerGUI standalone Windows executable. Download this repository, manually unzip the executable in place, and verify its SHA256 value. In a Command Prompt window, enter DrawPokerGUI.exe -h. Good to go if the help text is output. Built with strawberry perl PAR::Packer.<br/>DrawPokerGUI.exe `SHA256: 1C73B4252D7241B3AFD234AD6A8E4F0DAD0A9311F2845EE42EFB313D36F324BF`<br/><br/>
