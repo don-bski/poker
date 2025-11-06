@@ -5,7 +5,3 @@ This repository contains two perl based poker programs. While not written to the
 **DrawPoker.pl** - Proof of concept perl based five card draw poker game. Linux only. CLI based and ANSI color/character cards. 
 Only basic game play is implemented and win/lose checking is incomplete.<br/>
 
-### OS: Linux and Windows
-**DrawPokerGUI.pl** - Improved version of five card draw poker using Perl-tk. Auto-selection of a fixed game 
-table size based on screen resolution. Requires the perl GD module for image sizing. Yeah, perl-tk. Some 
-challenges and limitations to overcome during developmnent. Overall, it works pretty good.
